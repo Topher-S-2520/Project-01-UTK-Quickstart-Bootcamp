@@ -1,7 +1,11 @@
-# User Story 1
+# User Story 1: Home Page
 
-As user I want to: 
+As a user, I want to:
 
-    Be able to navigate to the menu page and view the food choices offered by the restaurant.
+    See basic information about the business: i.e.- Hours of Operation, Location, Menu Specials, Contact Information
 
-##
+# Acceptance Criteria
+
+    -Map with location should be readily available to view
+    -Street address and phone number will also be provided
+    -A list of the hours the buisness is operating should also be available for viewing
