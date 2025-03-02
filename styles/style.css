@@ -1,0 +1,78 @@
+.main-banner {
+    height: 600px;
+    background-image: linear-gradient(
+        rgba(255, 255, 255, 0.25),
+        rgba(255, 255, 255, 0.25)
+      ),
+      url(../assets/Front_door_Moms.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items:end;
+  }
+  
+  .main-banner-title {
+    font-size: 100px;
+    color: rgb(23, 20, 177);
+    text-align: center;
+    margin-bottom: 1rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+  .body {
+    background-color: lightgoldenrodyellow;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: x-large;
+  }
+
+  .page-heading {
+    font-size: 100px;
+    color: rgb(23, 20, 177);
+    text-align: center;
+    margin-bottom: 1rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+  .page-subheading {
+    font-size: 50px;
+    color: rgb(23, 20, 177);
+    text-align: center;
+    margin-bottom: 1rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+  .container-carousel {
+    margin: 50px auto;
+    width: 500px;
+    height: 500px;
+    justify-content: center;
+
+  }
+
+  .carousel-item {
+    height: 500px;
+    width: 500px;
+  }
+
+  .carousel-caption {
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+  }
+
+  .card-body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+  }
+
+  .img-fluid {
+    height: 300px;
+    max-width: 100%;
+  }
+
+  .col-md-8 {
+    margin: 0 auto;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: x-large;
+  }
